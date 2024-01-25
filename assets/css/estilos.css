@@ -1,0 +1,87 @@
+body{
+    width: 100%;
+    margin: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6jhcRu38X3GfCQFYnib6kvlhm1HuYMVl2Q&usqp=CAU);
+}
+
+h1{
+    color: rgb(206, 174, 236);
+    text-decoration: line-through;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+
+h2{
+    color: #bd6d8c;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+
+#tarjeta{
+    border: 30px solid;
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: inset;
+    display: flex;
+    justify-content: flex-end;
+}
+img{
+    width: 100%;
+    left: 50%;
+}
+main{
+    border-radius: 50px;
+    box-shadow: inset;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 18px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image-container {
+    display: flex;
+    width: 99%;
+    left: 50%;
+    float: center;
+    display: flex;
+    justify-content: flex-end;
+}
+#tarjeta1{
+    border: 30px solid;
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: inset;
+    display: flex;
+    justify-content: flex-end;
+}
+#tarjeta2{
+    border: 30px solid;
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: inset;
+    display: flex;
+    justify-content: flex-end;
+}
+#tarjeta3{
+    border: 30px solid;
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: inset;
+    display: flex;
+    justify-content: flex-end;
+}
